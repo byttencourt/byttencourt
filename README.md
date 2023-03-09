@@ -1,5 +1,5 @@
 # 💫 Sobre:
-Bem-vindo!!<br>:one: Qual a melhor linguagem? Aquela que você domina! <br>:two: Engenharia de Software![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br>:three: Proeficiência em Python/Algoritmos/Linguagem C.<br>:four: Eletrotécnico/Eletrônico com experiência em campo a mais de 10 anos.<br>
+Bem-vindo!!<br>:one: Qual a melhor linguagem? Aquela que você domina! <br>:two: Engenharia de Software<br>:three: Proeficiência em Python/Algoritmos/Linguagem C.<br>:four: Eletrotécnico/Eletrônico com experiência em campo a mais de 10 anos.<br>
 
 
 ## 🌐 Redes Sociais:
@@ -11,6 +11,7 @@ Bem-vindo!!<br>:one: Qual a melhor linguagem? Aquela que você domina! <br>:two:
 ![](https://github-readme-stats.vercel.app/api?username=byttencourt&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=byttencourt&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=byttencourt&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## 🏆 GitHub Troféis
 ![](https://github-profile-trophy.vercel.app/?username=byttencourt&theme=discord&no-frame=false&no-bg=true&margin-w=4)
