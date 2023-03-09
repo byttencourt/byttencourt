@@ -1,7 +1,6 @@
 # 💫 Sobre:
 Bem-vindo!!<br><br>
-:one: Qual a melhor linguagem? Aquela que você domina! <br>:two: Engenharia de Software<br>:three: Proeficiência em Python/Algoritmos/Linguagem C.<br>:four: Eletrotécnico/Eletrônico com experiência em campo a mais de 10 anos.<br>
-:five: ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=APRENDIZADO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br>
+:one: Qual a melhor linguagem? Aquela que você domina! <br>:two: Engenharia de Software<br>:three: Proeficiência em Python/Algoritmos/Linguagem C.<br>:four: Eletrotécnico/Eletrônico com experiência em campo a mais de 10 anos.<br><br>![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=APRENDIZADO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br>
 
 
 ## 🌐 Redes Sociais:
