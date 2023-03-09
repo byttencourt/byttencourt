@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[https://dev-to-uploads.s3.amazonaws.com/i/8y9m1r90a9moi4ufe6lm.png)" align="center" height="" width="600" />
+<img src="https://dev-to-uploads.s3.amazonaws.com/i/8y9m1r90a9moi4ufe6lm.png" align="center" height="" width="600" />
 </div>  
 
 # 💫 Sobre:
