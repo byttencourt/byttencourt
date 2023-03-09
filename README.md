@@ -3,7 +3,7 @@
 :one: Bem-vindo!! <br> 
 :two: Engenharia de Software: Proeficiência em Python/Algoritmos/Linguagem C. <br>
 :three: Eletrotécnico: Competências em instalação e Manutenção em eletroeletrônica Residêncial e Industrial + 10 anos. <br>
-:four: Eletrônica: Competências em Telecomunicações, Automação Residencial e Industrial, Sistemas de Segurança e controle de Acesso e Sistemas de CFTV + 14anos.<br><br> 
+:four: Eletrônica: Competências em Telecomunicações, Automação Residencial e Industrial, Sistemas de Segurança e controle de Acesso e Sistemas de CFTV + 14anos. <br> <br> 
 ![b](https://img.shields.io/badge/APRENDIZADO-EM%20DESENVOLVIMENTO-green) <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
