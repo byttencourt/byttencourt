@@ -2,8 +2,8 @@
 <br>
 :one: Bem-vindo!! <br> 
 :two: Engenharia de Software: Proeficiência em Python/Algoritmos/Linguagem C. <br>
-:three: Eletrotécnico: Competências em instalação e manutenção em eletroeletrônica residêncial e industrial + 10 anos. <br>
-:four: Eletrônica: Competências em Telecomunicações, automação Residencial e Industrial, Sistemas de Segurança e controle de Acesso e Sistemas de CFTV + 14anos.<br><br>
+:three: Eletrotécnico: Competências em instalação e Manutenção em eletroeletrônica Residêncial e Industrial + 10 anos. <br>
+:four: Eletrônica: Competências em Telecomunicações, Automação Residencial e Industrial, Sistemas de Segurança e controle de Acesso e Sistemas de CFTV + 14anos.<br><br>
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=APRENDIZADO&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) <br>
 
 
@@ -27,8 +27,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=byttencourt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 Quer contribuir? 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/byttencourt) 
-
-  
+    
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
