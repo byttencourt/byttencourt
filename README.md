@@ -6,7 +6,7 @@
 </p>
 
 <!--   my-header-img -->
-![](https://preview.redd.it/etlhfwnm8lr11.gif?format=mp4&v=enabled&s=1c3806eef896afadafb91e41ac85db2d99d8aadc)
+![](https://user-images.githubusercontent.com/8041604/224595446-591e001d-e086-4cf7-9426-0a948384c144.mp4)
 
 # 💫 Sobre:
 <br>
