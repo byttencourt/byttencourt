@@ -63,8 +63,6 @@
       <br>MySQL
     </td>
   </tr>
- <tr>
-    
 </table>
 # 📊 GitHub Stats:
 <div align="center">
