@@ -1,15 +1,12 @@
 <p align="center">
     <a href="https://github.com/byttencourt/byttencourt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/byttencourt/byttencourt/graphs/contributors"><img src="https://img.shields.io/github/contributors/byttencourt/byttencourt?color=blue"></a>
-    <a href="https://github.com/byttencourt/byttencourt/stargazers"><img src="https://img.shields.io/github/stars/byttencourt/byttencourt.svg?logo=github"></a>
-    <a href="https://github.com/byttencourt/byttencourt/network/members"><img src="https://img.shields.io/github/forks/byttencourt/byttencourt.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=byttencourt.byttencourt" alt="visitors"/>   
+  
+     
 </p>
 
 <!--   my-header-img -->
 ![](https://i.imgur.com/3BA0BA7.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="center" height="98" width="98" ></a>
 
 # 💫 Sobre:
 <br>
@@ -41,7 +38,7 @@
 [![](https://visitcount.itsvg.in/api?id=byttencourt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 contributions in the last year
-![](https://github.com/byttencourt/byttencourt/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
     
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
