@@ -1,12 +1,12 @@
 <p align="center">
     <a href="https://github.com/byttencourt/byttencourt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-  
-     
 </p>
 
-<!--   my-header-img -->
-![](https://user-images.githubusercontent.com/8041604/224595446-591e001d-e086-4cf7-9426-0a948384c144.mp4)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/8041604/224595446-591e001d-e086-4cf7-9426-0a948384c144.mp4" align="center" height="" width="600" />
+</div>
+
 
 # 💫 Sobre:
 <br>
