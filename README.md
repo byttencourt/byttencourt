@@ -2,6 +2,7 @@
     <a href="https://github.com/byttencourt/byttencourt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
 
+<br>
 
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=500&lines=print('Hello%2C+World!')"/>
 
