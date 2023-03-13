@@ -6,7 +6,7 @@
 </p>
 
 <!--   my-header-img -->
-![](https://giphy.com/gifs/perfect-loops-lcs5BL0NIM4WMv61a9)
+![](https://preview.redd.it/etlhfwnm8lr11.gif?format=mp4&v=enabled&s=1c3806eef896afadafb91e41ac85db2d99d8aadc)
 
 # 💫 Sobre:
 <br>
