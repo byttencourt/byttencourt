@@ -3,7 +3,10 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
 </p>
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=600&lines=print('Hello%2C+World!'))](https://git.io/typing-svg)
+
+contributions in the last year
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
 
 # 💫 Sobre:
@@ -64,6 +67,8 @@
     </td>
   </tr>
 </table>
+
+
 # 📊 GitHub Stats:
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=byttencourt&theme=default&hide_border=false&include_all_commits=false&count_private=false"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byttencourt&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -71,12 +76,6 @@
 </div>
 
 
-
-
-[![](https://visitcount.itsvg.in/api?id=byttencourt&icon=0&color=0)](https://visitcount.itsvg.in)
-
-contributions in the last year
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 
     
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
