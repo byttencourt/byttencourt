@@ -3,7 +3,7 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=600&lines=print('Hello%2C+World!'))](https://git.io/typing-svg"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=1000&color=000000&vCenter=true&width=600&lines=print('Hello%2C+World!')"/>
 </p>
 
 contributions in the last year
