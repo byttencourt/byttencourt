@@ -18,7 +18,7 @@ contributions in the last year
 :one: Bem-vindo!!  <br> 
 :two: Desenvolvimento de Software: Proeficiência em Python | HTML5 | CSS 5 | Linguagem C | Lua. <br>
 :three: Eletrotécnico: Competências em instalação e Manutenção em eletroeletrônica Residêncial e Industrial + 10 anos. <br>
-:four: Eletrônica: Competências em Telecomunicações, Automação Residencial e Industrial, Sistemas de Segurança e controle de Acesso e Sistemas de CFTV + 14anos. <br> <br> 
+:four: Eletrônica: Competências em Telecomunicações, Automação Residencial e Industrial, Sistemas de Segurança, controle de Acesso e Sistemas de CFTV + 14anos. <br> <br> 
 
 
 
