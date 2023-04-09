@@ -1,5 +1,6 @@
 <p align="center">
     <a href="https://github.com/byttencourt/byttencourt"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <br>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
 
 <br>
